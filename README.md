@@ -1,6 +1,6 @@
-# 💪 Women Empowerment Dashboard
+# 💪 Intern Dashboard
 
-A full-stack web application to track and manage intern contributions, referrals, and rewards for a women empowerment initiative.
+A full-stack web application to track and manage intern contributions, referrals, and rewards for a Intern initiative.
 
 ## 🚀 Features
 
